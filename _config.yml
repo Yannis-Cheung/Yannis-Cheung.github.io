@@ -1,5 +1,14 @@
 title: Yannis Cheung
-#logo
-description: LSE | UOB
-#show_downloads: true
-theme: jekyll-theme-minimal
+description: London School of Economics and Political Science - MSc Finance & Economics | University of Bristol - BSc Economics |
+logo: /assets/profile.jpg  # Upload your photo here
+theme: jekyll-theme-cayman
+show_downloads: false
+
+github:
+  is_project_page: false
+  is_user_page: true
+
+social_links:
+  linkedin: https://www.linkedin.com/in/yannis-cheung/
+  github: https://github.com/Yannis-Cheung
+  email: yannisc28@gmail.com
